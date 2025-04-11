@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<suite name="Gold-OXO Smoke Suite">
+<listeners>
+<listener class-name="Utilities.TestListener"/>
+</listeners>
+  <test name="Test_DGLD_OXO_ST_094_My_Account_Page_Validation" testid="DQA-156" priority="P1" description="This test case is to verify all the navigations and Account inputs in My Account Page for Registered User ">
+<classes>
+<class name="TestExecute.OXO.regressionTestcase.Test_DGLD_OXO_ST_094_My_Account_Page_Validation"/>
+</classes>
+</test>
+</suite>

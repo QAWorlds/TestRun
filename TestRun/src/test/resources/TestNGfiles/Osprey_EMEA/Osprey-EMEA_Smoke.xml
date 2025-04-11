@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<suite name="Gold-Osprey EMEA smoke execution">
+    <listeners>
+        <listener class-name="Utilities.TestListener"/>
+    </listeners>
+
+    <test name="Test_DGLD_OS_COMMON_001_Create_Account_Funtionality" testid="DQA-1951" priority="P1" description="This script will cover creating a new user account">
+        <classes>
+            <class name="TestExecute.Osprey_EMEA.Preprod_Smoke_Testcases.UK_Smoke.Test_DGLD_OS_COMMON_001_Create_Account_Funtionality"/>
+        </classes>
+    </test> 
+
+</suite>

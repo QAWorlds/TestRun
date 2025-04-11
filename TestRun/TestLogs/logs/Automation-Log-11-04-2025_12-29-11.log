@@ -1,0 +1,64 @@
+2025-04-11 12:29:13 INFO  log4j:67 - TestListener-deleteFilesInDirectory-LineNo:45-Unable to delete files in directory. Continuing.. 
+ Error: 
+2025-04-11 12:29:16 INFO  log4j:53 - BaseDriver-StartBrowser-LineNo:197-Chrome Driver Stared Successfully
+2025-04-11 12:29:22 INFO  log4j:53 - Login-signIn-LineNo:72-Logged in with User: 
+2025-04-11 12:29:26 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-04-11 12:29:26 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-04-11 12:29:26 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //img[@alt='OXO logo. Takes to OXO homepage']    with attrubuteBy  xpath    is  32  milliseconds
+2025-04-11 12:29:26 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-04-11 12:29:31 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-04-11 12:29:31 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //button[@id='customer-menu']    with attrubuteBy  xpath    is  26  milliseconds
+2025-04-11 12:29:31 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-04-11 12:29:35 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-04-11 12:29:43 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-04-11 12:29:43 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-04-11 12:29:47 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-04-11 12:29:56 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-04-11 12:29:56 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //button[@id='customer-menu']    with attrubuteBy  xpath    is  24  milliseconds
+2025-04-11 12:29:56 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-04-11 12:29:56 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //a[normalize-space()='My Account']    with attrubuteBy  xpath    is  60  milliseconds
+2025-04-11 12:29:56 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-04-11 12:30:01 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-04-11 12:30:01 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //span[contains(text(),'Account')]    with attrubuteBy  xpath    is  49  milliseconds
+2025-04-11 12:30:01 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-04-11 12:30:06 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-04-11 12:30:10 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-04-11 12:30:11 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //span[contains(text(),'Address')]    with attrubuteBy  xpath    is  28  milliseconds
+2025-04-11 12:30:11 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-04-11 12:30:14 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-04-11 12:30:18 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-04-11 12:30:18 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //span[contains(text(),'Orders')]    with attrubuteBy  xpath    is  19  milliseconds
+2025-04-11 12:30:18 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-04-11 12:30:23 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-04-11 12:30:27 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-04-11 12:30:27 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //span[contains(text(),'Registry')]    with attrubuteBy  xpath    is  22  milliseconds
+2025-04-11 12:30:27 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-04-11 12:30:31 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-04-11 12:30:35 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-04-11 12:30:35 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //span[contains(text(),'Wishlist')]    with attrubuteBy  xpath    is  26  milliseconds
+2025-04-11 12:30:35 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-04-11 12:30:39 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-04-11 12:30:43 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-04-11 12:30:43 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //span[contains(text(),'Stock')]    with attrubuteBy  xpath    is  33  milliseconds
+2025-04-11 12:30:43 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-04-11 12:30:46 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-04-11 12:30:51 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-04-11 12:30:51 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //span[contains(text(),'Payment')]    with attrubuteBy  xpath    is  31  milliseconds
+2025-04-11 12:30:51 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-04-11 12:30:57 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-04-11 12:31:01 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-04-11 12:31:01 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //span[contains(text(),'Cards')]    with attrubuteBy  xpath    is  29  milliseconds
+2025-04-11 12:31:01 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-04-11 12:31:04 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-04-11 12:31:09 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-04-11 12:31:09 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //span[contains(text(),'Newsletter')]    with attrubuteBy  xpath    is  27  milliseconds
+2025-04-11 12:31:09 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-04-11 12:31:14 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-04-11 12:31:18 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-04-11 12:31:19 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //button[@id='customer-menu']    with attrubuteBy  xpath    is  22  milliseconds
+2025-04-11 12:31:19 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-04-11 12:31:19 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //a[@title='Sign Out']    with attrubuteBy  xpath    is  27  milliseconds
+2025-04-11 12:31:19 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-04-11 12:31:24 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-04-11 12:31:31 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-04-11 12:31:31 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
